@@ -27,7 +27,7 @@
   a. right click windows logo on the taskbar
   b. select "Task Manager"
 2. scroll down to "Background Tasks"
-3. right click on the "Basic Keylogger.exe" task
+3. right click on the "Keylogger.exe" task
 4. select "End Task"
 
 ## View Logs
@@ -40,5 +40,5 @@
 2. double click on the file named "logs.txt"
 
 ### .exe
-1. go to the folder that you installed the program in
+1. go to the folder that you have the program in
 2. double click the file named "logs.txt"
