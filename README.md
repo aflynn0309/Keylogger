@@ -15,17 +15,17 @@
 1. press the X button on the top right corner of the window
 
 ### .pyw
-1. open task manager
-  a. right click windows logo on the taskbar
-  b. select "Task Manager"
+1. open task manager\
+  a. right click windows logo on the taskbar\
+  b. select "Task Manager"\
 2. scroll down to "Background Tasks"
 3. right click on the python tasks
 4. select "End Task"
 
 ### .exe
-1. open task manager
-  a. right click windows logo on the taskbar
-  b. select "Task Manager"
+1. open task manager\
+  a. right click windows logo on the taskbar\
+  b. select "Task Manager"\
 2. scroll down to "Background Tasks"
 3. right click on the "Keylogger.exe" task
 4. select "End Task"
